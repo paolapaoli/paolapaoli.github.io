@@ -5,6 +5,8 @@ Beacon('identify', {
   email: 'paola+scout@helpscout.com',
   company: "SCOUT LEADERS",
   jobTitle: 'Help Scouter',
+  favouriteAnimal: "Piglet",
+  theskyis: "Blue"
 })
 </script>
 # Moonhouse t-e-s-t-i-n-g
