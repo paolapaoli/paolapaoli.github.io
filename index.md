@@ -18,7 +18,7 @@ How do I add more pages/links to my site?
 
 Is this a functional link - [Beacon Tests page](https://paolapaoli.github.io/beacon-tests)
 
-
+<button type="button" id="beacon" onclick="return Beacon('open')">Chat with us</button>
 
 ### For my future reference, Github Pages info below
 You can use the [editor on GitHub](https://github.com/paolapaoli/paolapaoli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
