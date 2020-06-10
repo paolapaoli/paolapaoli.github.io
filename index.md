@@ -4,7 +4,7 @@ window.Beacon('on','open',() => window.Beacon('show-message','cc200e17-a2a5-4b31
 </script>
 <style>
 @media only screen and (max-width: 480px) {
-#beacon-container {
+#beacon-container > button {
 display: none!important;
 }
 }
