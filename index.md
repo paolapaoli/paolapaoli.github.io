@@ -7,7 +7,7 @@ window.Beacon('on','open',() => window.Beacon('show-message','cc200e17-a2a5-4b31
   .BeaconFabButtonFrame {
     box-shadow: none;
   }
-#beacon-container button {
+#beacon-container {
 display: none!important;
 }
 }
