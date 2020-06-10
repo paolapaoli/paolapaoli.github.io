@@ -2,6 +2,16 @@
 <script type="text/javascript">window.Beacon('init', '38f4b4ff-9b87-4e70-93ee-f26b50999142');
 window.Beacon('on','open',() => window.Beacon('show-message','cc200e17-a2a5-4b31-92bc-2c0b7cee6d46'))
 </script>
+<style>
+@media only screen and (max-width: 480px) {
+#beacon-container {
+display: none!important;
+}
+}
+</style>
+
+
+
 # Moonhouse t-e-s-t-i-n-g
 
 How do I add more pages/links to my site?
