@@ -2,6 +2,11 @@
 <script type="text/javascript">window.Beacon('init', '38f4b4ff-9b87-4e70-93ee-f26b50999142');
 Beacon('config', {
 hideFABOnMobile: true
+});
+Beacon('identify', {
+  name: 'Paola',
+  email: 'paola+stevezissou@helpscout.com',
+  accountlookup: 'https:\/\/website.com\/profiles\/accountid={%variable here}'
 })
 </script>
 
