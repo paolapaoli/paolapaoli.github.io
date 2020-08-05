@@ -14,8 +14,9 @@ Beacon('identify', {
 
 # Moonhouse t-e-s-t-i-n-g
 
-Link link - [Beacon Tests page](https://paolapaoli.github.io/beacon-tests)
-Link link - [Third page](https://paolapaoli.github.io/third-page)
+Link link - [Beacon Tests page](https://paolapaoli.github.io/beacon-tests)  
+
+Link link - [Third page](https://paolapaoli.github.io/third-page)  
 
 Custom icon to call the Beacon:
 <button type="button" id="beacon" onclick="return Beacon('open')">Chat with us</button>
