@@ -6,4 +6,6 @@ Beacon('identify', {
   company: "12345"
 })
 </script>
-Beacon tests page?
+Identify attributes are implemented in this page!
+
+Another page - [Third page](https://paolapaoli.github.io/third-page)
