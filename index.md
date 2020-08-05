@@ -6,7 +6,7 @@ hideFABOnMobile: true
 Beacon('identify', {
   name: 'Paola',
   email: 'paola+stevezissou@helpscout.com',
-  accountlookup: 'https:\/\/website.com\/profiles\/accountid={%variable here}'
+  accountlookup: 'https:\/\/website.com\/profiles\/accountid={variable here}'
 })
 </script>
 
