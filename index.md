@@ -18,5 +18,5 @@ Link link - [Beacon Tests page](https://paolapaoli.github.io/beacon-tests)
 
 Link link - [Third page](https://paolapaoli.github.io/third-page)  
 
-Custom icon to call the Beacon:
-<button type="button" id="beacon" onclick="return Beacon('open')">Chat with us</button>
+On a mobile browser, Beacon can be opened from here:
+<button type="button" id="beacon" onclick="return Beacon('open')">Click me to see Beacon</button>
