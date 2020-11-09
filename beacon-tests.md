@@ -9,4 +9,6 @@ Beacon('identify', {
 
 Identify attributes are implemented in this page!
 
-Another page - [Third page](https://paolapaoli.github.io/third-page)
+[Third page](https://paolapaoli.github.io/third-page)
+
+[Beacon Tests > Another page](https://paolapaoli.github.io/beacon-tests/anotherpage)
