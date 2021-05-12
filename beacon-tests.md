@@ -3,7 +3,7 @@
 Beacon('identify', {
   name: 'Site Visitor',
   email: 'sitevisitor_heyhelpscout@test.com',
-  company: '6789'
+  companyid: "6789"
 })
 </script>
 
