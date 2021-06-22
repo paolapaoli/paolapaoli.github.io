@@ -5,9 +5,11 @@ Beacon('identify', {
   email: 'sitevisitor_heyhelpscout@test.com',
   companyid: "6789"
 })
+Beacon('show-message', 'f68ef3c2-5cf8-4c7e-9f51-02f826996edc', { force: true })
 </script>
 
-Identify attributes are implemented in this page!
+
+Identify attributes + a persistent Message are present in this page
 
 [Third page](https://paolapaoli.github.io/third-page)
 
