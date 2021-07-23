@@ -4,12 +4,13 @@ Beacon('config', {
 hideFABOnMobile: true
 });
 Beacon('identify', {
-  name: 'Paola',
-  email: 'paola+stevezissou@helpscout.com',
-  accountlookup: 'https:\/\/website.com\/profiles\/accountid={variable here}'
-})
+  companyid = 5678
+  })
 </script>
 
+<script>
+  Beacon('show-message', 'f52cd1d7-426a-4ea9-8fff-cf26f74733ff', { force:true } )
+</script>
 
 
 # Moonhouse t-e-s-t-i-n-g
