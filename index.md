@@ -7,7 +7,7 @@ Beacon('identify', {
 </script>
 
 <script>
-  Beacon('show-message', 'f52cd1d7-426a-4ea9-8fff-cf26f74733ff', { force:true } )
+  Beacon('show-message', 'f52cd1d7-426a-4ea9-8fff-cf26f74733ff')
 </script>
 
 
