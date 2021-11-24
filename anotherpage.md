@@ -2,7 +2,7 @@
 <script type="text/javascript">window.Beacon('init', '38f4b4ff-9b87-4e70-93ee-f26b50999142')
 Beacon('identify', {
   name: 'Steve Aoki',
-  email: 'shaun@helpscout.com',
+  email: 'help@helpscout.com',
 	age : 0
 })</script>
 
