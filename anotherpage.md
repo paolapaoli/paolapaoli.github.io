@@ -3,10 +3,10 @@
 Beacon('identify', {
   name: 'Steve Aoki',
   email: 'paola@helpscout.com',
-	age : '2'
+	age : 0
 })</script>
 
-Property on this page is Age = 2.
+Property on this page is Age = 0.
 
 Main another page?
 
